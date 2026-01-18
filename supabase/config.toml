@@ -1,0 +1,7 @@
+project_id = "bqfsmvsxucxvntsfvedt"
+
+[functions.analyze-saplings]
+verify_jwt = false
+
+[functions.analyze-tif-image]
+verify_jwt = false
